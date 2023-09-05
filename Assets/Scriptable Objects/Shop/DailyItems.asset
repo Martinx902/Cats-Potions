@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 32
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 26ed8e57b8cffd24d8a7233f0c3e4cb3, type: 3}
+  m_Name: DailyItems
+  m_EditorClassIdentifier: 
+  dailyItemsList:
+  - uiShopItems:
+    - {fileID: -3706016019257314431, guid: d2a7eae7937f8b0489a121e2eff25dc7, type: 3}
+    - {fileID: -3706016019257314431, guid: ea5b479d837e1ed48abf68898ed4bff3, type: 3}
+    - {fileID: -3706016019257314431, guid: be1f0fd7a570f3945a00af7a689c4533, type: 3}
+  - uiShopItems:
+    - {fileID: -3706016019257314431, guid: 062006ccd1b50a2499e013102b01e8a3, type: 3}
+    - {fileID: -3706016019257314431, guid: f83db63aea705b347b99d4fab70d9d41, type: 3}
+    - {fileID: -3706016019257314431, guid: a0ef7c5942905084da247bbe54373076, type: 3}
+  - uiShopItems:
+    - {fileID: -3706016019257314431, guid: 4a46a3fda8f1914438f1df725381bad5, type: 3}
+    - {fileID: -3706016019257314431, guid: 232fa858f183cf9448b7fb1a6d8406cd, type: 3}
+    - {fileID: -3706016019257314431, guid: ee3d899b90baa3944906bb6553a0f24b, type: 3}
+  debug: 0

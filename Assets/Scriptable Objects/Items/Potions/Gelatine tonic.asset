@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 71b30b7e49a3c9c4fbf12d2043e6e843, type: 3}
+  m_Name: Gelatine tonic
+  m_EditorClassIdentifier: 
+  itemName: Gelatine tonic
+  itemTier: 1
+  itemDescription: "This simple tonic made\n from magic mushrooms\n brings a unique
+    consistency and \nproperties to more elaborate mixtures."
+  itemType: Potion
+  itemPrice: 30
+  itemSprite: {fileID: 21300000, guid: fbaa7d36bea8ccd49b89b45ad8e1b6ef, type: 3}

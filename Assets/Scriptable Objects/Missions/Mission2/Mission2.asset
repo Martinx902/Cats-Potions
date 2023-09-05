@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fd86203a8b2249640bc12c7b506cca80, type: 3}
+  m_Name: Mission2
+  m_EditorClassIdentifier: 
+  mission: {fileID: 11400000, guid: c911a700b8aeca944b02f34d5b218f7f, type: 2}
+  questDialogue: {fileID: 11400000, guid: 4f38f2bc2f5f4eb409ab48243f204eb5, type: 2}
+  gratitudeDialogue: {fileID: 11400000, guid: c78f5d645a2d6e143b7e213216ef350a, type: 2}

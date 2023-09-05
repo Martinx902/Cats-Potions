@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 39fb07fc5da2bde4288278d3b75db7f0, type: 3}
+  m_Name: 2n_Mission
+  m_EditorClassIdentifier: 
+  npcName: Bear
+  npcImage: {fileID: 21300000, guid: 9e23ee59c4da3234a83664c490e76808, type: 3}
+  sentences:
+  - 'Well, now that i know that you are a reliable cat '
+  - I would love if you could bring me something that could lift my spririt up a
+    little bit
+  - I've been feeling kind of lonely this days, I guess it's because of the time
+    of the year
+  - That brings out this melancolic part of me
+  - Could you bring me a potion of joy? In return I can help you with the crops.

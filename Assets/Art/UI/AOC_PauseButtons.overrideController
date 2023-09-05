@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: AOC_PauseButtons
+  m_Controller: {fileID: 9100000, guid: bcec87fa78bde5f41822c893d6c70cf9, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 64c593159b0b0354fa7a428821bbd5ca, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 11d751e7e6b1fe74e94064e77f15c218, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: f2e9e22c5c6564b4cbaa81947d3b8e06, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: ce249553cc1297546ae7b748bdd3f124, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 0c7ca251a13cf754192a5535ad6fb31b, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: b961087d62f8fb6469e40b27a23deeeb, type: 2}

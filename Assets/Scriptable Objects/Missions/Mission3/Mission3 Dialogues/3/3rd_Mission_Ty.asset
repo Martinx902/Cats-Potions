@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 39fb07fc5da2bde4288278d3b75db7f0, type: 3}
+  m_Name: 3rd_Mission_Ty
+  m_EditorClassIdentifier: 
+  npcName: Bear
+  npcImage: {fileID: 21300000, guid: 9e23ee59c4da3234a83664c490e76808, type: 3}
+  sentences:
+  - Thank you so much, I've been dying for them... They're delicious!
+  - While I was waiting for you to return for a walk, I found this
+  - I don't really know what it is but maybe you do.

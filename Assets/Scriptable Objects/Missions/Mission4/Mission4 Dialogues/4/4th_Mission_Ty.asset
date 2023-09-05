@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 39fb07fc5da2bde4288278d3b75db7f0, type: 3}
+  m_Name: 4th_Mission_Ty
+  m_EditorClassIdentifier: 
+  npcName: Bear
+  npcImage: {fileID: 21300000, guid: 9e23ee59c4da3234a83664c490e76808, type: 3}
+  sentences:
+  - I appreciate you bringing it, but I'm afraid I won't be able to make the cake
+    any more.
+  - I fell asleep and almost burnt down the kitchen! I guess as you get older you
+    fall asleep more easily...
+  - I'm sorry you won't be able to taste the cake, but don't worry. I made this with
+    the ashes! hehe

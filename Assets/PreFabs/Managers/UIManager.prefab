@@ -1,0 +1,123 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &5465381478214260496
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6808989187075215994}
+  - component: {fileID: 267867359857262016}
+  - component: {fileID: 1212293168478259363}
+  - component: {fileID: 8383141131582719191}
+  m_Layer: 0
+  m_Name: UIManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6808989187075215994
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5465381478214260496}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 63.927666, y: -80.332344, z: 71.688896}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &267867359857262016
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5465381478214260496}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 58561cd9ebf852a468f0183e1b1d820c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &1212293168478259363
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5465381478214260496}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d8e0729847c44e049897f5092813c8cb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &8383141131582719191
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5465381478214260496}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b5c37e9e00e327240aaf7c52e6ffa469, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  PopUpPanel: {fileID: 0}
+  messageUI: {fileID: 0}
+  imageUI: {fileID: 0}
+  uiCanvasGroup: {fileID: 0}
+  fadeInDuration: 0.6
+  delayDuration: 1.2
+  PopUpMessages:
+  - popUpKey: 0
+    popUpData:
+      message: Inventory Full!
+      image: {fileID: 21300000, guid: 50105eed7ec9901419d0def08a3d91a8, type: 3}
+  - popUpKey: 1
+    popUpData:
+      message: New item added to inventory!
+      image: {fileID: 21300000, guid: 309b1d5a294fd6c43ae9cf77656c1852, type: 3}
+  - popUpKey: 2
+    popUpData:
+      message: Item removed from inventory!
+      image: {fileID: 21300000, guid: 50105eed7ec9901419d0def08a3d91a8, type: 3}
+  - popUpKey: 3
+    popUpData:
+      message: New recipe discovered!
+      image: {fileID: 21300000, guid: 9e23ee59c4da3234a83664c490e76808, type: 3}
+  - popUpKey: 4
+    popUpData:
+      message: New mission adquired!
+      image: {fileID: 21300000, guid: 9e23ee59c4da3234a83664c490e76808, type: 3}
+  - popUpKey: 5
+    popUpData:
+      message: Mission completed!
+      image: {fileID: 21300000, guid: 9e23ee59c4da3234a83664c490e76808, type: 3}
+  - popUpKey: 6
+    popUpData:
+      message: Error with the PopUpMessage
+      image: {fileID: 21300000, guid: f95f697d66d238446b1ab717def09945, type: 3}
+  - popUpKey: 8
+    popUpData:
+      message: It's getting late, you should go to bed soon
+      image: {fileID: 21300000, guid: 5679a74364f6b4440ab7e7aed55cd95e, type: 3}
+  - popUpKey: 7
+    popUpData:
+      message: 'It''s still early to go to bed '
+      image: {fileID: 21300000, guid: 5679a74364f6b4440ab7e7aed55cd95e, type: 3}
+  - popUpKey: 9
+    popUpData:
+      message: Oh no, you fell asleep!!
+      image: {fileID: 21300000, guid: 045e64045f0859843b0ed8132bf6a57b, type: 3}
+  - popUpKey: 10
+    popUpData:
+      message: Problem with the PopUpUI, no key detected
+      image: {fileID: 21300000, guid: 5679a74364f6b4440ab7e7aed55cd95e, type: 3}

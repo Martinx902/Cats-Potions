@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 71b30b7e49a3c9c4fbf12d2043e6e843, type: 3}
+  m_Name: BreathOfTheForest
+  m_EditorClassIdentifier: 
+  itemName: Breath of the forest
+  itemTier: 1
+  itemDescription: "Everything that nature has been\n fighting for since its birth.
+    \nThe very essence of the forest. "
+  itemType: Potion
+  itemPrice: 0
+  itemSprite: {fileID: 21300000, guid: a6bb843effea38f41be4ebb453ff3135, type: 3}

@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 32
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c317f6ae0a7653240b2f0e294bd25f68, type: 3}
+  m_Name: UltimatePotion
+  m_EditorClassIdentifier: 
+  recipeName: Breath of the forest
+  recipeDescription: 'Everything that nature has been fighting for since its birth.
+    The very essence of the forest. '
+  items:
+  - {fileID: 11400000, guid: c772da21a9b764945851085d79f916d3, type: 2}
+  - {fileID: 11400000, guid: 19e2e8f811d74cd45a729aef4cad310a, type: 2}
+  - {fileID: 11400000, guid: f31aae886a12ad74ebaa0ca20f669a3a, type: 2}
+  resultItem: {fileID: 11400000, guid: aaa8871155baacf42b3fc2f0b572b013, type: 2}
+  isUnlocked: 1

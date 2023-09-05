@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a4a39b91042ad3c40800a4b2ed1b95a6, type: 3}
+  m_Name: BearDialogueList
+  m_EditorClassIdentifier: 
+  dialogueList:
+  - {fileID: 11400000, guid: 98906e6414dcca343b4582d37c9e02f3, type: 2}
+  - {fileID: 11400000, guid: 96b7b8d5e5a3055419408825a3049818, type: 2}
+  nextDialogue: 1
+  dialogueIndex: 0

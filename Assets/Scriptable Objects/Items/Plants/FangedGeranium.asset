@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 71b30b7e49a3c9c4fbf12d2043e6e843, type: 3}
+  m_Name: FangedGeranium
+  m_EditorClassIdentifier: 
+  itemName: Fanged Geranium
+  itemTier: 1
+  itemDescription: "Beware! This fanged flower can bite\n you when you pick it.\nIt
+    is a common plant with a peculiar\n smell.  \nIt is often used in various types
+    of\n potions."
+  itemType: Normal Item
+  itemPrice: 15
+  itemSprite: {fileID: 21300000, guid: 95ba549bde28a1244b30a3ce029e23d0, type: 3}

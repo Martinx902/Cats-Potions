@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3fad9a5d154c7ea4a992f9bba6b9091e, type: 3}
+  m_Name: PlayerAdviceList
+  m_EditorClassIdentifier: 
+  adviceList:
+  - {fileID: 11400000, guid: ecd5a00e69529b746891d14813cd9115, type: 2}
+  - {fileID: 11400000, guid: b4ecbc1f7bfec204ab01b8e416035000, type: 2}
+  - {fileID: 11400000, guid: a7a27eafaf5366b4e8c64cf9deff4acd, type: 2}
+  - {fileID: 11400000, guid: a6711eb217ee2f74d90a63c6b9a062b5, type: 2}

@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MAP SPOTS/StartMenu.unity
+    guid: a219962b8d6ac6d4f9cb99861f0a7ad9
+  - enabled: 1
+    path: Assets/Scenes/MAP SPOTS/MageInterior.unity
+    guid: 70e4c4b2421b5564ca8efd89cdc66df1
+  - enabled: 1
+    path: Assets/Scenes/MAP SPOTS/MageSpot.unity
+    guid: 4b715df4a75b3d441b99975b87a698d5
+  - enabled: 1
+    path: Assets/Scenes/MAP SPOTS/BearSpot.unity
+    guid: 43ad879f1fa52544ebd1f409451b7055
+  - enabled: 1
+    path: Assets/Scenes/MAP SPOTS/FoxSpot.unity
+    guid: 7b7c068601916ce4cb51624076fff3ef
+  - enabled: 1
+    path: Assets/Scenes/MAP SPOTS/MageInterior_2ndF.unity
+    guid: 1f9e5f45c3cf5df4fbfe53a9c250c140
+  - enabled: 1
+    path: Assets/Scenes/MAP SPOTS/CursedSpringSpot.unity
+    guid: ec97542d8354e5e4e9743d72ad6fc077
+  - enabled: 1
+    path: Assets/Scenes/MAP SPOTS/SpringSpot_2.unity
+    guid: 5ac201de29820f04ab7293a3d2ae5d38
+  - enabled: 1
+    path: Assets/Scenes/MAP SPOTS/Cinematics/StartCinematic.unity
+    guid: a5137ebf0d2fed145bf337f109c33fda
+  - enabled: 1
+    path: Assets/Scenes/MAP SPOTS/Cinematics/EndCinematic.unity
+    guid: 079767b9438549f489a1c11a58f73a25
+  - enabled: 1
+    path: Assets/Scenes/MAP SPOTS/Cinematics/Credits.unity
+    guid: 22b2a2ec9af043b4aa0c3b958c186779
+  - enabled: 1
+    path: Assets/Scenes/MAP SPOTS/Cinematics/MenuCredits.unity
+    guid: 8bf12d7a3b800db4b899146c512772e3
+  m_configObjects: {}

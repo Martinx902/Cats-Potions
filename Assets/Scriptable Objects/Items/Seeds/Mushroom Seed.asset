@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 65e4a8c0b50cd6f40a245609f8405f4d, type: 3}
+  m_Name: Mushroom Seed
+  m_EditorClassIdentifier: 
+  itemName: Mushroom Seed
+  itemTier: 1
+  itemDescription: "The seed of a magic mushroom tree.\n If you grow it at the exact
+    moment\n before it becomes a tree,\n you will have a very special \ningredient
+    in your hands."
+  itemType: seed
+  itemPrice: 5
+  itemSprite: {fileID: 21300000, guid: 39d3872f75d50b446bdab732d6d51c3b, type: 3}
+  plantStages:
+  - {fileID: 919132149155446097, guid: 0f4dd0f740ac8434c95cccef86ed8cc0, type: 3}
+  - {fileID: 919132149155446097, guid: 288091ef71eedb841b0262fe5257e160, type: 3}
+  - {fileID: 919132149155446097, guid: c2fd6b9ebefa9a24e9aa7fdef822b545, type: 3}
+  daysToChange: 1
+  itemToCollect: {fileID: 11400000, guid: e2d39a8530bf0de4ca4c5cf5827bc9b8, type: 2}

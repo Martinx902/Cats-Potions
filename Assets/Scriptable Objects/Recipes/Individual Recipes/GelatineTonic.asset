@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 32
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c317f6ae0a7653240b2f0e294bd25f68, type: 3}
+  m_Name: GelatineTonic
+  m_EditorClassIdentifier: 
+  recipeName: Gelatine tonic
+  recipeDescription: "Basic and simple quick-cooking potion. \nGives off a sweet
+    aroma when brewed."
+  items:
+  - {fileID: 11400000, guid: e2d39a8530bf0de4ca4c5cf5827bc9b8, type: 2}
+  - {fileID: 11400000, guid: e2d39a8530bf0de4ca4c5cf5827bc9b8, type: 2}
+  - {fileID: 11400000, guid: e2d39a8530bf0de4ca4c5cf5827bc9b8, type: 2}
+  resultItem: {fileID: 11400000, guid: bdb9423ff790bb74e90c118099ed9c7b, type: 2}
+  isUnlocked: 1

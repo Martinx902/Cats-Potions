@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 65e4a8c0b50cd6f40a245609f8405f4d, type: 3}
+  m_Name: FangedGeranium Seed
+  m_EditorClassIdentifier: 
+  itemName: Fanged Geranium seed
+  itemTier: 1
+  itemDescription: The seed of a flower with a bad temper.
+  itemType: seed
+  itemPrice: 5
+  itemSprite: {fileID: 21300000, guid: 0c005eff5d629be42807e5246c6b9707, type: 3}
+  plantStages:
+  - {fileID: 919132149155446097, guid: c42f703d5376a834097c7be065a36feb, type: 3}
+  - {fileID: 919132149155446097, guid: 6509a821d17b5bb49ba338e96254978d, type: 3}
+  - {fileID: 919132149155446097, guid: 3dc4df1f7e66a604b8a8fe9c89d5edf9, type: 3}
+  daysToChange: 1
+  itemToCollect: {fileID: 11400000, guid: 92a0277b78d9bb745a4ed61f96390e3e, type: 2}
